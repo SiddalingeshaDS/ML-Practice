@@ -48,3 +48,9 @@ Temporary Items
 
 models/*
 datasets/*
+*.npy
+*.npz
+Python for Data Analysis/.ipynb_checkpoints/Pandas Basics-checkpoint.ipynb
+Python for Data Analysis/.ipynb_checkpoints/Numpy Basics-checkpoint.ipynb
+Python for Data Analysis/.ipynb_checkpoints/Built-in Data Structures, Functions-checkpoint.ipynb
+Python for Data Analysis/.ipynb_checkpoints/Numpy Basics-checkpoint.ipynb
