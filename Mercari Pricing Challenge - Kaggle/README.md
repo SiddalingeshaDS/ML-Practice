@@ -1,15 +1,9 @@
-# ML-Practice
-Hands on practice to implement ML algorithms on various datasets
+# Mercari Pricing Challenge - Kaggle
+Practicing building prediction models using Kaggle Dataset.
 
-This repository is to rewrite the codes that are present in the books I read.
+This notebook contains code heavily borrowed from another notebook developed by Randy Lao. (https://github.com/randylaosat/Price-Recommendation-Mercari-Challenge). The goal of this project is to:
+1. Finish an end to end project
+2. Learn the mechanisms of prediction model building
+3. Learn to read/organize code.
 
-1. Hands on Machine Learning with Scikit-Learn and Tensorflow
-2. Python for Data Analysis
-3. Python Machine Learning
-
-All the code is from the following github repositories:
-1. https://github.com/ageron/handson-ml
-2. https://github.com/wesm/pydata-book
-3. https://github.com/rasbt/python-machine-learning-book/tree/master/code
-
-I am using this for learning/practice puposes to understand along with reading the books.
+I am using this for learning/practice puposes to understand along with reading other content.
